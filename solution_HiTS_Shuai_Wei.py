@@ -47,5 +47,11 @@ def solution():
     with open(file_name,'w') as fo:
         json.dump(reach_out,fo)
 
-# Code testing 
+# Code testing by calling the function
 solution()
+
+#import math
+# Loading the data from file
+data = json.load(open('28546431.json'))
+# Simple counting of events
+len(data['events'])
