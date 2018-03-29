@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This is a solution script for HiTS python programming assessment. 
+Coded in python2.7 environment and tested with python3.6.
 
 Created on Thu Mar 29 11:06:38 2018
 
